@@ -15,7 +15,7 @@ Penjelasan input tersebut adalah:
 - ```abs(bird.y-pipes[pipe_ind].height)``` adalah: jarak antara posisi y "bird" dan tinggi pipa.
 - ```abs(bird.y - pipes[pipe_ind].bottom)``` adalah: jarak antara posisi y "bird" dan bagian bawah pipa.
 - ```pipes[pipe_ind].x``` adalah: posisi pipa terhadap x-axis (horizontal)
-- ```bird.x`` adalah: posisi "bird" terhadap x-axis (horizontal)
+- ```bird.x``` adalah: posisi "bird" terhadap x-axis (horizontal)
 
 
 Demo game: terlihat pipa naik turun sehingga memberi tantangan lebih terhadap AI pada game.
