@@ -1,2 +1,7 @@
-# M-DataScience-FlappyBirdAI
-Repository untuk menyimpan game flappy bird yang dikendalikan oleh AI (Artificial intelligence)
+# Flappy Bird AI
+
+Game ini terinspirasi dari , perbedaannya terletak di pipa dan input untuk burung
+
+Demo game:
+
+![alt text](https://github.com/mufis-coder/M-DataScience-FlappyBirdAI/blob/main/doc/demo-game.gif) <br />
