@@ -3,6 +3,8 @@ import neat
 import time
 import os
 import random
+# os.environ["SDL_VIDEODRIVER"] = "windib"
+
 pygame.font.init()
 
 WIN_WIDTH = 500
