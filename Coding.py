@@ -3,9 +3,13 @@ import neat
 import time
 import os
 import random
-# os.environ["SDL_VIDEODRIVER"] = "windib"
+# os.environ["SDL_VIDEODRIVER"] = "windlib"
 
-pygame.font.init()
+from pygame.locals import *
+pygame.init()
+
+# pygame.init()
+# pygame.display.list_modes()
 
 WIN_WIDTH = 500
 WIN_HEIGHT = 700
